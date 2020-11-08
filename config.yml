@@ -1,0 +1,8 @@
+mysql:
+  user_name: "bonh"
+  password: "123456"
+  port: 3306
+  address: localhost
+
+file:
+  folder_path: "/music/saving/"
